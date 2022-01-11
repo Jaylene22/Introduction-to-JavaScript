@@ -18,7 +18,12 @@ Do the following:
    2. Console log true if age is 18 or higher
 
    HINT: no function required
-*/
+*/ 
+const votingAge = 18;
+if (votingAge >= 18) {
+  console.log(true);
+}
+ 
 
 
 
