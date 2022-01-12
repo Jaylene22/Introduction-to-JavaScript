@@ -37,8 +37,13 @@ Do the following:
 
    HINT: no function required
 */
+let bag = 'target';
+let shoe = 'mall';
 
-
+if(shoe === 'mall'){
+  bag = 'walmart';
+}
+console.log('task 1b:', bag);
 
 
 
@@ -53,6 +58,8 @@ Do the following:
    HINT: look up the Number method
 */
 
+let year = '1999';
+console.log(Number (year));
 
 
 
